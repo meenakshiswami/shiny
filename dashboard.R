@@ -1,7 +1,7 @@
-library(gtsummary)
+
 library(shinydashboard)
 library(survminer)
-library(DT)
+
 library(survival)
 library(haven)
 library(shiny)
